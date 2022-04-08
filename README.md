@@ -29,3 +29,9 @@ https://www.daveabrock.com/2021/04/29/meet-dapr/
 ## Akka.Net
 
 https://getakka.net/community/whats-new/akkadotnet-v1.5.html
+
+## Sample 1
+
+https://docs.microsoft.com/en-us/dotnet/architecture/dapr-for-net-developers/sample-application
+
+https://github.com/EdwinVW/dapr-logicapps-sample
